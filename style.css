@@ -1,4 +1,5 @@
 body {
+<<<<<<< HEAD
     text-align: center;
     font-family: Arial, sans-serif;
 }
@@ -6,3 +7,28 @@ body {
 h1 {
     margin-top: 100px;
 }
+=======
+font-family: Arial, sans-serif;
+text-align: center;
+margin: 0;
+padding: 0;
+}
+
+.container {
+margin-top: 150px;
+}
+
+h1 {
+font-size: 45px;
+}
+
+p {
+font-size: 20px;
+}
+
+button {
+padding: 12px 25px;
+font-size: 18px;
+cursor: pointer;
+}
+>>>>>>> 1e1c2a12d882b0ada23c8c2cdee3fdcc31044592
